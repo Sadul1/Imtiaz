@@ -175,7 +175,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="banner-image text-right">
-                            <img src="images/banner/h3b1.jpg" alt="Hosni Imtiaz" />
+                            <img src="images/banner/hosni.jpg" alt="Hosni Imtiaz" />
                         </div>
                     </div>
                 </div>
