@@ -80,7 +80,7 @@
             <!-- Slider Image -->
             <div id="home3-slider" class="nivoSlider slider-image">
                 <img src="images/slider/slider5.jpg" alt="main slider" title="#htmlcaption5" />
-                <img src="images/slider/slider6.jpg" alt="main slider" title="#htmlcaption6" />
+                <!-- <img src="images/slider/slider6.jpg" alt="main slider" title="#htmlcaption6" /> -->
                 <img src="images/slider/slider7.jpg" alt="main slider" title="#htmlcaption7" />
             </div>
 
