@@ -88,17 +88,20 @@
             <div id="htmlcaption5" class="nivo-html-caption">
                 <div class="slider-progress"></div>
                 <div class="container">
-                    <div class="slider4-cap-wrapper4 cap-wrapper">
-                        <div class="captext-pos1">
-                            <div class="slider3-btext wow fadeInDown" data-wow-duration=".9s" data-wow-delay="0.8s">
-                                <h2>Domino trend.</h2>
+                <div class="slider2-cap-wrapper2 cap-wrapper">
+                        <div class="captext-pos2 slider-capstyle3">
+                            <div class="slider3-toptext wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
+                                <h4>Fashion lookbook</h4>
                             </div>
-                            <div class="slider3-stext wow fadeInDown" data-wow-duration=".9s" data-wow-delay="0.8s">
-                                <h4>lookbook ecomerce theme</h4>
+                            <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
+                                <h2>Imtiaz Designers</h2>
                             </div>
-                            <div class="slider3-btn1 wow fadeInDown" data-wow-duration=".9s" data-wow-delay="0.8s">
-                                <a class="btn-trans" href="shop.html">Shop Now</a>
+                            <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
+                                <h2> Trend 2020.</h2>
                             </div>
+                            <!-- <div class="slider3-btn slider3-btn2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
+                                <a class="btn-nontrans" href="shop.html">Shop now</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -110,7 +113,7 @@
                     <div class="slider2-cap-wrapper2 cap-wrapper">
                         <div class="captext-pos2 slider-capstyle3">
                             <div class="slider3-toptext wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
-                                <h4>Fashion lookbook 2016</h4>
+                                <h4>Fashion lookbook</h4>
                             </div>
                             <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
                                 <h2>Imtiaz Designers</h2>
@@ -118,9 +121,9 @@
                             <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
                                 <h2> Trend 2020.</h2>
                             </div>
-                            <div class="slider3-btn slider3-btn2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
+                            <!-- <div class="slider3-btn slider3-btn2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
                                 <a class="btn-nontrans" href="shop.html">Shop now</a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -132,17 +135,17 @@
                     <div class="slider2-cap-wrapper2 cap-wrapper">
                         <div class="captext-pos2 slider-capstyle3">
                             <div class="slider3-toptext wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
-                                <h4>Fashion lookbook 2016</h4>
+                                <h4>Fashion lookbook</h4>
                             </div>
                             <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
-                                <h2>Hipster Fashion</h2>
+                                <h2>Mens' Fashion</h2>
                             </div>
                             <div class="slider3-btext2 wow fadeInRight" data-wow-duration=".5s" data-wow-delay="0.8s">
-                                <h2> Trend 2016.</h2>
+                                <h2> Designers</h2>
                             </div>
-                            <div class="slider3-btn slider3-btn2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
+                            <!-- <div class="slider3-btn slider3-btn2 wow fadeInRight" data-wow-duration=".9s" data-wow-delay="0.8s">
                                 <a class="btn-nontrans" href="shop.html">Shop now</a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -175,7 +178,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="banner-image text-right">
-                            <img src="images/banner/hosni.jpg" alt="Hosni Imtiaz" />
+                            <img src="images/banner/hasni.jpg" alt="Imtiaz Hussain" />
                         </div>
                     </div>
                 </div>
@@ -191,7 +194,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="product-banner-left">
                             <div class="pbanner-image hvreff-defm20 posr">
-                                <img src="images/discount/cms7.jpg" alt="" />
+                                <img src="images/discount/cms7.png" alt="" />
                             </div>
                         </div>
 
@@ -216,40 +219,168 @@
 
         <!--Product banner area end-->
 
-        <!--Banner3 top area start-->
-        <div class="banner3-middle">
-            <div class="banner-full-wrapper hp3-bannerbag-md">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-4 col-xs-12">
-                            <div class="banner-content">
-                                <div class="banner-sstitle">
-                                    <h5>Supper deal only today!</h5>
-                                </div>
-                                <div class="banner-stitle">
-                                    <h3>Mega sale off</h3>
-                                </div>
-                                <div class="banner-btitle">
-                                    <h2>Up to <span class="text-color">70%</span></h2>
-                                </div>
-                                <div class="banner-text btext">
-                                    <p>Lorem ipsum dolor sit amet, consec tetuer adipis elit, aliquam eget nibh etlibura. Aenean commodo ligula eget dolor Aenean massa. Portals seize data-driven, tag expedite.</p>
-                                </div>
-                                <div class="banner-button">
-                                    <a class="btn-back2" href="shop.html">Shopping Now</a>
+        <!-- Banner 2 start here -->
+        <div class="big-banner-area2">
+            <div class="fullwidth-banner-wrapper posr hp5-b2">
+                <div class="banner1-img">
+                    <img src="images/banner/banner2.jpg" alt="">
+                </div>
+                <div class="banner-middle-cap">
+                    <div class="slide-one-dec wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
+                        <h4>It has finally started...</h4>
+                    </div>
+                    <div class="slide-one-title slide-underline posr wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
+                        <h2>Huge sale up to </h2>
+                    </div>
+                    <div class="slide-one-title wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
+                        <h1><span class="slide-text-big">70%</span> off</h1>
+                    </div>
+                    <div class="check-it-out wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
+                        <a class="btn-trans" href="shop.html">Exploxed Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- banner 2 end here -->
+        <!-- gallery start here -->
+        <div class="new-arrival-product-area hp4-napa">
+            <div class="container">
+                <div class="row">
+                    <div class="product-tab-category-wrapper home2-feature">
+                        <div class="col-xs-12">
+                            <div class="home-featured-head text-center">
+                                <div class="section-title title-head">
+                                    <h3>Our Gallery</h3>
+                                    <img src="images/icons/icon-title.png" alt="" />
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-8 col-xs-12">
-                            <div class="banner-image text-right">
-                                <img src="images/banner/h3b5.png" alt="Domino" />
+                        <div class="clearfix"></div>
+                        <div class="product-conttab-wrapper">
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane active" id="newArrival">
+                                    <div class="active-owl-product-hp4 def-owl owl-carousel owl-theme" style="opacity: 1; display: block;">
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/3.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/2.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/1.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/4.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/5.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                        <!-- <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/6.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                        <!-- <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/7.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Namal Rajapaksha</h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--Banner3 top area end-->
+        <!-- gallery end here -->
         <!--Brand slider area css start-->
 
         <div class="brand-area hp3-brand-area">

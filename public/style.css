@@ -1462,7 +1462,7 @@ nav ul.main-menu {
 
     text-transform: uppercase;
 
-    color: #333;
+    color: #ffffff;
 }
 
 .product-tab-cat ul li {
@@ -2596,6 +2596,7 @@ nav ul.main-menu {
 
 .product-banner-area {
     padding-top: 95px;
+    background: url('../../images/banner/1.png');
 }
 
 .product-banner-left:hover .hvreff-defm20:before {
@@ -2870,6 +2871,11 @@ nav ul.main-menu {
 .banner-full-wrapper {
     padding-top: 65px;
     padding-bottom: 48px;
+    /* width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url('../../images/banner/1.jpg'); */
 
     background: #F5F5F5 none repeat scroll 0 0;
 }
@@ -2885,6 +2891,7 @@ nav ul.main-menu {
 
 .featured-product-area.home3-fp {
     margin-top: 90px;
+    background: url('../../images/banner/banner3.jpg');
 }
 
 /*----------------------------------------*/
@@ -3034,8 +3041,8 @@ nav ul.main-menu {
 
 .new-arrival-product-area.hp4-napa {
     overflow: hidden;
-
-    margin-top: 60px;
+    background: url('../../images/banner/banner3.jpg');
+    /* margin-top: 60px; */
 }
 
 .active-owl-product-hp4 .col-md-3 {
