@@ -57,6 +57,8 @@
                                                 </li>
                                                 <li><a href="portfolio.html">Products</a>
                                                 </li>
+                                                <li><a href="Collections">Collections</a>
+                                                </li>
                                                 <li><a href="contact.html">Contact Us</a>
                                                 </li>
                                             </ul>

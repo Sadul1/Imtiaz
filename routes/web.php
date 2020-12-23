@@ -9,3 +9,7 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/collections', function () {
+    return view('collections');
+});
+

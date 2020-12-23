@@ -1462,7 +1462,7 @@ nav ul.main-menu {
 
     text-transform: uppercase;
 
-    color: #ffffff;
+    color: #333;
 }
 
 .product-tab-cat ul li {
@@ -2596,7 +2596,7 @@ nav ul.main-menu {
 
 .product-banner-area {
     padding-top: 95px;
-    background: url('../../images/banner/1.png');
+    background: url('../../images/banner/1.jpg');
 }
 
 .product-banner-left:hover .hvreff-defm20:before {
@@ -2805,7 +2805,7 @@ nav ul.main-menu {
     padding-top: 95px;
     padding-bottom: 95px;
 
-    background: #F5F5F5 none repeat scroll 0 0;
+    background: #0d0d0d none repeat scroll 0 0;
 }
 
 .benner-button a {
@@ -2833,7 +2833,7 @@ nav ul.main-menu {
 
     text-transform: uppercase;
 
-    color: #333;
+    color: #F1F1F1;
 }
 
 .banner-btitle {
@@ -2861,7 +2861,7 @@ nav ul.main-menu {
 
     text-align: justify;
 
-    color: #666;
+    color: #F5F5F5;
 }
 
 .banner3-middle {

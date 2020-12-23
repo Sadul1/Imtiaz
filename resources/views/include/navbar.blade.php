@@ -28,7 +28,10 @@
                                     <li class="mega-parent">
                                         <a href="about.html">Products</a>
                                     </li>
-                                    <li class="mega-parent"><a href="shop.html" target="_blank">Collection <i class="zmdi zmdi-chevron-down"></i></a>
+                                    <li class="mega-parent">
+                                        <a href="collections">Collections</a>
+                                    </li>
+                                    <!-- <li class="mega-parent"><a href="shop.html" target="_blank">Collection <i class="zmdi zmdi-chevron-down"></i></a>
                                         <div class="mega-menu-area hp1-style3 mega-menu-area2">
                                             <ul class="single-mega-item single-mega-item2">
                                                 <li class="mega-title"><a>Pages-01</a>
@@ -46,7 +49,7 @@
                                             </ul>
                                             
                                         </div>
-                                    </li>
+                                    </li> -->
                                     <li><a href="contact.html">Contact us</a>
                                     </li>
                                 </ul>

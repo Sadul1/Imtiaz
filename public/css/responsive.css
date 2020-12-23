@@ -2877,6 +2877,9 @@
     .new-arrival-product-area.hp4-pba {
         margin-top: 45px;
     }
+    .big-banner-area2{
+        /* padding-top: 5px; */
+    }
 
     .hm4-pbanner-area {
         padding-top: 5px;
@@ -2937,7 +2940,7 @@
     }
 
     .new-arrival-product-area.hp4-napa {
-        margin-top: 5px;
+        /* margin-top: 5px; */
     }
 
     .product-banner-area.hm4-pbanner-area {

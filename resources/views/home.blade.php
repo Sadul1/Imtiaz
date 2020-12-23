@@ -60,7 +60,7 @@
                     <div class="row">
                         <div class="col-md-2 col-sm-2 col-xs-12">
                             <div class="header-logo home2-header-logo header-logo-def">
-                                <a href="index.html"><img src="images/logo_1.png" alt="domino" />
+                                <a href="index.html"><img src="images/logo_1.png" alt="Imtiaz" />
                                 </a>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
             <!-- Slider Image -->
             <div id="home3-slider" class="nivoSlider slider-image">
                 <img src="images/slider/slider5.jpg" alt="main slider" title="#htmlcaption5" />
-                <!-- <img src="images/slider/slider6.jpg" alt="main slider" title="#htmlcaption6" /> -->
+                <img src="images/slider/slider6.jpg" alt="main slider" title="#htmlcaption6" />
                 <img src="images/slider/slider7.jpg" alt="main slider" title="#htmlcaption7" />
             </div>
 
@@ -178,7 +178,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="banner-image text-right">
-                            <img src="images/banner/hasni.jpg" alt="Imtiaz Hussain" />
+                            <img src="images/banner/imtiaz.jpg" alt="Imtiaz Hussain" />
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="product-banner-left">
                             <div class="pbanner-image hvreff-defm20 posr">
-                                <img src="images/discount/cms7.png" alt="" />
+                                <img src="images/discount/cms7.jpg" alt="Namal Rajapaksha Wedding" />
                             </div>
                         </div>
 
@@ -227,13 +227,13 @@
                 </div>
                 <div class="banner-middle-cap">
                     <div class="slide-one-dec wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
-                        <h4>It has finally started...</h4>
+                        <h4>Christmas Promotion...</h4>
                     </div>
                     <div class="slide-one-title slide-underline posr wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
-                        <h2>Huge sale up to </h2>
+                        <h2>12.12 Sale </h2>
                     </div>
                     <div class="slide-one-title wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
-                        <h1><span class="slide-text-big">70%</span> off</h1>
+                        <h1><span class="slide-text-big">40%</span> off</h1>
                     </div>
                     <div class="check-it-out wow zoomIn" data-wow-duration=".9s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.8s; animation-name: zoomIn;">
                         <a class="btn-trans" href="shop.html">Exploxed Now</a>
@@ -265,98 +265,34 @@
                                                 <div class="product-wrapper posr">
                                                     <div class="priduct-img-wrapper posr">
                                                         <div class="product-img">
+                                                            <img src="images/product/8.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <!-- <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Adithya Narayan</h4>
+                                                        </div>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
                                                             <img src="images/product/3.jpg" alt="" />
                                                         </div>
                                                     </div>
-                                                    <div class="product-bottom-text posr">
+                                                    <!-- <div class="product-bottom-text posr">
                                                         <div class="product-bottom-title deft-underline2">
                                                                 <h4>Namal Rajapaksha</h4>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-3">
-                                            <div class="single-product hp4-sp">
-                                                <div class="product-wrapper posr">
-                                                    <div class="priduct-img-wrapper posr">
-                                                        <div class="product-img">
-                                                            <img src="images/product/2.jpg" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-bottom-text posr">
-                                                        <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="single-product hp4-sp">
-                                                <div class="product-wrapper posr">
-                                                    <div class="priduct-img-wrapper posr">
-                                                        <div class="product-img">
-                                                            <img src="images/product/1.jpg" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-bottom-text posr">
-                                                        <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="single-product hp4-sp">
-                                                <div class="product-wrapper posr">
-                                                    <div class="priduct-img-wrapper posr">
-                                                        <div class="product-img">
-                                                            <img src="images/product/4.jpg" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-bottom-text posr">
-                                                        <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- <div class="col-md-3">
-                                            <div class="single-product hp4-sp">
-                                                <div class="product-wrapper posr">
-                                                    <div class="priduct-img-wrapper posr">
-                                                        <div class="product-img">
-                                                            <img src="images/product/5.jpg" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-bottom-text posr">
-                                                        <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div> -->
-                                        <!-- <div class="col-md-3">
-                                            <div class="single-product hp4-sp">
-                                                <div class="product-wrapper posr">
-                                                    <div class="priduct-img-wrapper posr">
-                                                        <div class="product-img">
-                                                            <img src="images/product/6.jpg" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-bottom-text posr">
-                                                        <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div> -->
-                                        <!-- <div class="col-md-3">
                                             <div class="single-product hp4-sp">
                                                 <div class="product-wrapper posr">
                                                     <div class="priduct-img-wrapper posr">
@@ -364,14 +300,126 @@
                                                             <img src="images/product/7.jpg" alt="" />
                                                         </div>
                                                     </div>
+                                                    <!-- <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>Sanuka Wickramasinghe</h4>
+                                                        </div>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/12.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <!-- <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <h4>La Singore (Lahiru Perera)</h4>
+                                                        </div>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/19.jpg" alt="" />
+                                                        </div>
+                                                    </div>
                                                     <div class="product-bottom-text posr">
                                                         <div class="product-bottom-title deft-underline2">
-                                                                <h4>Namal Rajapaksha</h4>
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> -->
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/13.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/14.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/11.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/9.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="single-product hp4-sp">
+                                                <div class="product-wrapper posr">
+                                                    <div class="priduct-img-wrapper posr">
+                                                        <div class="product-img">
+                                                            <img src="images/product/10.jpg" alt="" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-bottom-text posr">
+                                                        <div class="product-bottom-title deft-underline2">
+                                                                <!-- <h4>Namal Rajapaksha</h4> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -383,7 +431,7 @@
         <!-- gallery end here -->
         <!--Brand slider area css start-->
 
-        <div class="brand-area hp3-brand-area">
+        <!-- <div class="brand-area hp3-brand-area">
             <div class="container">
                 <div class="row">
                     <div class="brand-slider-wrapper">
@@ -422,7 +470,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!--Brand slider area css end-->
 
@@ -472,20 +520,19 @@
                                 <h5 class="active">Information</h5>
                             </div>
                             <ul class="footer-list-text jscroll-info">
-                                <li><a href="shop.html" title="New products">New products</a>
+                                <li><a href="shop.html" title="New products">Our Products</a>
                                 </li>
-                                <li><a href="single-product.html" title="Best sellers">Best sellers</a>
+                                <li><a href="single-product.html" title="Best sellers">Services</a>
                                 </li>
-                                <li><a href="shop.html" title="Our stores">Our stores</a>
-                                </li>
-                                <li><a href="contact.html" title="Contact us">Contact us</a>
+                                
+                                <!-- <li><a href="contact.html" title="Contact us">Contact us</a> -->
                                 </li>
                                 <li><a href="index2.html" title="Sitemap">Sitemap</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2 col-sm-6 col-xs-12">
+                    <!-- <div class="col-md-2 col-sm-6 col-xs-12">
                         <div class="footer-list-wrapper">
                             <div id="f-myac" class="footer-title def-funderline ftitle-myA posr">
                                 <h5 class="active">My account</h5>
@@ -503,7 +550,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-md-2 col-sm-6 col-xs-12">
                         <div class="footer-list-wrapper">
                             <div id="f-cussve" class="footer-title def-funderline def-funderline2 ftitle-cus posr">
@@ -512,14 +559,14 @@
                             <ul class="footer-list-text jscroll-cussrve">
                                 <li><a href="contact.html" title="Contact us">Contact us</a>
                                 </li>
-                                <li><a href="index2.html" title="Discount">Discount</a>
+                                <li><a href="shop.html" title="Our stores">Our stores</a>
                                 </li>
-                                <li><a href="index2.html" title="Site map">Site map</a>
-                                </li>
+                                <!-- <li><a href="index2.html" title="Site map">Site map</a>
+                                </li>-->
                                 <li><a href="about.html" title="About us">About us</a>
                                 </li>
-                                <li><a href="contact.html" title="Custom service">Custom service</a>
-                                </li>
+                                <!-- <li><a href="contact.html" title="Custom service">Custom service</a>
+                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -536,7 +583,7 @@
                 <div class="row">
                     <div class="col-md-8 col-sm-6 col-xs-12 footer-bottom-left">
                         <div class="footer-bottom-text">
-                            <p>Copyright <i class="fa fa-copyright"></i> <a href="https://hastech.company/" target="_blank">Hastech.</a> All Rights Reserved</p>
+                            <p>Copyright <i class="fa fa-copyright"></i> <a href="https://rebel.lk/" target="_blank">Rebel.</a> All Rights Reserved</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12 footer-bottom-right">
